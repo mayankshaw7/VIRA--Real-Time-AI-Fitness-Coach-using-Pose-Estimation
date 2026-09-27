@@ -173,7 +173,7 @@ streamlit run main.py
 
 🚀 Try the application live here:
 
-👉 https://ai-real-time-gym-coach-mayank-shaw.streamlit.app/
+👉 https://vira-real-time-ai-fitness-coach-using-pose-estimation.streamlit.app/
 
 ---
 
